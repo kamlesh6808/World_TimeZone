@@ -5,6 +5,7 @@ import json
 import requests
 import sys
 
+
 class Timezone:
     def __init__(self):
         pass
